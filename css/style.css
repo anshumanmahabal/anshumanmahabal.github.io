@@ -1,6 +1,6 @@
 :root {
-    --primaryText: #fff;
-    --secondaryText: rgba(222, 30, 55, 1);
+    --primaryText: #ffffff;
+    --secondaryText: rgb(236, 243, 37);
     --primary: rgba(34, 88, 12, 1);
     --secondary: rgba(255, 1, 94, .60); 
     --buttonHover: rgba(34, 88, 12, 0.4);
@@ -26,7 +26,7 @@ body {
     min-height: 100%;
     /* The image used for the site background. Try changing skyscape.jpg to stars.jpg. Put a replacement photo in the images folder and, in line 21 below, replace skyscape.jpg with yourbackgroundfilename.jpg */
     /* The linear gradient darkens the image, like putting a sunglasses lens on top of it. If you want to darken the image even more, change 0.1 (both times) to 0.3 or higher */
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../images/websiteBackground.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.35)), url(../images/brandi-redd-aJTiW00qqtI-unsplash.jpg);
     /* Prevents the browser from repeating or "tiling" the background image */
     background-repeat: no-repeat;
     background-position: center;
